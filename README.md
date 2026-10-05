@@ -105,6 +105,7 @@ This project helped me practice:
 
 ## 👨‍💻 Author
 
-**Ramk09**
+Kurra Venkata Siva Rama Krishna
+Artificial Intelligence And Machine Learning
 
 GitHub: https://github.com/Ramk09
